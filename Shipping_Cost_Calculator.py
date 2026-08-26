@@ -11,3 +11,4 @@ shipping_cost = weight * rate
 print(f"Shipping Cost: {shipping_cost} USD")
 
 # This is a new comment at the end of the file
+# This is another comment at the end of the file
